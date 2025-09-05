@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Iterator.h.obj",
+            "outputs": [
+                "D:\\git\\xj\\STL_\\STL_\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\git\\xj\\STL_\\STL_\\x64\\Debug\\Iterator.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Iterator.h",
+                    "source-path": "d:\\git\\xj\\stl_\\stl_\\iterator.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
